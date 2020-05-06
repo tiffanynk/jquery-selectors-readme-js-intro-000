@@ -1,1 +1,3 @@
-$('#baby-ninja')
+function paragraphSelector() {
+  $('p')
+}
